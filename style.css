@@ -18,7 +18,6 @@
   font-size: 0;
   font-weight: bold;
   line-height: 400px;
-  background: #f72;
   text-transform: uppercase;
   text-align: center;
   color: rgba(255, 255, 255, 0);
@@ -30,5 +29,18 @@
   color: white;
 }
 .frame > div:nth-child(2n) {
-  background: #444;
+/*  background: #444;*/
+}
+
+.div1{
+  background: #333;
+}
+.div2{
+  background: #008B8B;
+}
+.div3{
+  background: #1E90FF;
+}
+.div4{
+  background: #660000;
 }
